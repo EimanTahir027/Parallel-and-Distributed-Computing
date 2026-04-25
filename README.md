@@ -5,17 +5,17 @@
 
 ```bash
 .
+├── CODE/
+│   ├── cuda/
+│   ├── openmp/
+│   ├── mpi/
+│   └── hybrid/
 └── images
 │   ├── .gitkeep
 │   ├── 1.png
 └── .gitignore
 └── CODE_OF_CONDUCT.md
 └── CONTRIBUTING.md  
-├── code/
-│   ├── cuda/
-│   ├── openmp/
-│   ├── mpi/
-│   └── hybrid/
 └── LICENSE
 └── README.md
 ```
