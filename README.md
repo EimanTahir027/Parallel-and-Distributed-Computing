@@ -9,6 +9,7 @@
 │   ├── .gitkeep
 │   ├── 1.png
 └── .gitignore
+└── CODE_OF_CONDUCT.md     
 ├── code/
 │   ├── cuda/
 │   ├── openmp/
