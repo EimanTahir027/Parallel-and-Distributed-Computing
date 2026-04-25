@@ -1,6 +1,6 @@
 # Parallel-and-Distributed-Computing
 
-
+<img src="/images/1.png" alt="Illustration representing Python programming basics for artificial intelligence" style="width:100%; height:auto;" />
 ## Repository Structure
 
 ```bash
@@ -18,12 +18,7 @@
 │   └── hybrid/
 └── LICENSE
 └── README.md
-
-
-
 ```
-
-<img src="/images/1.png" alt="Illustration representing Python programming basics for artificial intelligence" style="width:100%; height:auto;" />
 
 ## Contents
 
