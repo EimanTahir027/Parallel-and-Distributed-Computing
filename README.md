@@ -5,12 +5,20 @@
 
 ```bash
 .
+└── images
+│   ├── .gitkeep
+│   ├── 1.png
+└── .gitignore
 ├── code/
 │   ├── cuda/
 │   ├── openmp/
 │   ├── mpi/
 │   └── hybrid/
+└── LICENSE
 └── README.md
+
+
+
 ```
 
 <img src="/images/1.png" alt="Illustration representing Python programming basics for artificial intelligence" style="width:100%; height:auto;" />
